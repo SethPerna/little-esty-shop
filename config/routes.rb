@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   get '/', to: 'welcome#index'
 
   resources :merchants, only:[:show] do
-    resources :items, only:[:index]
+    resources :items, only:[:index, :show]
     resources :invoices, only:[:index]
     resources :dashboard, only:[:index]
   end
