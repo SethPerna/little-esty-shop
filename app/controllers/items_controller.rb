@@ -9,16 +9,17 @@ class ItemsController < ApplicationController
     @item = Item.find(params[:id])
   end
 
-  # def index
-  # @books = Book.all
-  # flash.now[:notice] = "We have exactly #{@books.size} books available."
-  # end
-
   def update
+    @merchant = Merchant.find(params[:merchant_id])
     @item = Item.find(params[:id])
-    @item.update(item_params)
-      flash[:notice] = "Item sccessfully updated"
-      redirect_to(merchant_item_path)
+
+    if params[:status]
+      @item.update(name: params[:status])
+      redirect_to "/merchants/#{@merchant.id}/items"
+    else
+      @item.update(item_params)
+      @merchant.save
+      redirect_to "/merchants/#{@merchant.id}/items/#{@item.id}"
     end
   end
 
