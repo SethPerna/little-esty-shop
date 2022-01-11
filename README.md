@@ -43,10 +43,11 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 
 ### Admin
  - Enable or disable merchant access
-<img width="515" alt="Screen Shot 2022-01-11 at 6 05 15 PM" src="https://user-images.githubusercontent.com/63167887/149035553-54a4e43f-b4c9-4e42-91a2-6db42413ef5e.png">
+
+<img width="225" alt="Screen Shot 2022-01-11 at 6 06 56 PM" src="https://user-images.githubusercontent.com/63167887/149035557-cf8557aa-3847-4f44-9eaa-faf7911b64a2.png">
 
 - View top merchants by total sales revenue
 
-<img width="225" alt="Screen Shot 2022-01-11 at 6 06 56 PM" src="https://user-images.githubusercontent.com/63167887/149035557-cf8557aa-3847-4f44-9eaa-faf7911b64a2.png">
+<img width="515" alt="Screen Shot 2022-01-11 at 6 05 15 PM" src="https://user-images.githubusercontent.com/63167887/149035553-54a4e43f-b4c9-4e42-91a2-6db42413ef5e.png">
 
 
