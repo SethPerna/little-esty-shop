@@ -3,8 +3,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Technologies Used](#technologies-used)
+* [Usage](#usage)
 * [Featured Applications](#featured-applications)
 * [Room For Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -30,6 +30,18 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 - [RSpec](https://rspec.info/) Ruby behavior driven development test suite.
 - [dbdiagram.io](https://dbdiagram.io/home) A free, simple tool to draw ER diagrams.
 - [Postgres](https://www.postgresql.org/) PostgreSQL is a free and open-source relational database management system. 
+
+## Usage
+After downloading solution to your local machine, open in your preferred IDE.
+
+Select the MaintenanceTracker.MVC assembly as your startup project and run the program.
+
+Click the Vehicles tab or button on the homepage to view or add vehicles
+
+Click the FuelUp or Services tab, or the buttons on the homepage to view or add a fuel stop and update service records.
+
+From the vehicles page you can check the fuel up and service records for each vehicle listed.
+
 
 ## Requirements
 - must use Rails 5.2.x
