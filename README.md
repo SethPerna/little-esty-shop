@@ -65,5 +65,5 @@ The following features can be further expanded upon to increase functionality of
 ## Collaborators
 - [Seth Perna](https://github.com/SethPerna)
 - [Katy Harrod](https://github.com/mcharrod)
-- [Devin Pilé]
-- [Russell Rockwood] 
+- [Devin Pilé](https://github.com/devin-p-lay)
+- [Russell Rockwood](https://github.com/russellrockwood)
