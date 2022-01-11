@@ -1,14 +1,21 @@
-# Little Esty Shop
+# Maintenance Tracker 
+> "Little Esty Shop" is a fictitious e-commerce platform where merchants and admins can manage inventory and fulfill customer invoices.
+## Table of Contents
+* [General Info](#general-information)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies Used](#technologies-used)
+* [Featured Applications](#featured-applications)
+* [Room For Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-## Background and Description
+## General Information
+This solution contains a Ruby on Rails Web Application using MVC architecture:
+- Utilizes custom data tables with foreign key relationships
+- Manage customers, merchants, items transactions and invoices
+- [Database Schema Diagram](https://dbdiagram.io/d/61b0e0908c901501c0e724a4)
 
-"Little Esty Shop" is a group project that requires students to build a fictitious e-commerce platform where merchants and admins can manage inventory and fulfill customer invoices.
-
-## Learning Goals
-- Practice designing a normalized database schema and defining model relationships
-- Utilize advanced routing techniques including namespacing to organize and group like functionality together.
-- Utilize advanced active record techniques to perform complex database queries
-- Practice consuming a public API while utilizing POROs as a way to apply OOP principles to organize code
 
 ## Requirements
 - must use Rails 5.2.x
