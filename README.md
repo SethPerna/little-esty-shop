@@ -52,7 +52,7 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 
 ## Room for Improvement
 
-The following features can be further expanded upon to increase functionality of the applications:
+The following features can be further expanded upon to increase functionality of the solution:
 - Front-end design for a better user experience
 - Implementing partials to reduce repeated code in views
 - Reduction of repeated code in features tests
