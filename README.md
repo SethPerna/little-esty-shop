@@ -22,7 +22,7 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 - From the command line, install gems and set up your DB:
     * `bundle`
     * `rails db:create`
-- Or visit the [deployed version]() on Heroku
+- Or visit the [deployed version](https://blooming-stream-46033.herokuapp.com/) on Heroku
 
 ## Technologies Used
 - Ruby/Rails
