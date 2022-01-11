@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Installation](#installation)
 * [Technologies Used](#technologies-used)
-* [Usage](#usage)
 * [Featured Applications](#featured-applications)
 * [Room For Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -32,8 +31,10 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 - [dbdiagram.io](https://dbdiagram.io/home) A free, simple tool to draw ER diagrams.
 - [Postgres](https://www.postgresql.org/) PostgreSQL is a free and open-source relational database management system. 
 
-## Usage
-### Merchants
+## Featured Applications
+#### Merchants
+
+#### Admin
 
 
 
