@@ -50,4 +50,12 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 
 <img width="515" alt="Screen Shot 2022-01-11 at 6 05 15 PM" src="https://user-images.githubusercontent.com/63167887/149035553-54a4e43f-b4c9-4e42-91a2-6db42413ef5e.png">
 
+## Acknowledgements
+- This project was inspired by a Turing School of Software and Design Assignment Prompt.
+- Many thanks to Jamison Ordway, Mike Dao and all Turing staff and faculty for guidance during this project.
 
+## Collaborators
+- Seth Perna 
+- Katy Harrod 
+- Devin Pilé 
+- Russell Rockwood
