@@ -63,7 +63,7 @@ The following features can be further expanded upon to increase functionality of
 - Many thanks to Jamison Ordway, Mike Dao and all Turing staff and faculty for guidance during this project.
 
 ## Collaborators
-- Seth Perna 
-- Katy Harrod 
-- Devin Pilé 
-- Russell Rockwood
+- [Seth Perna](https://github.com/SethPerna)
+- [Katy Harrod](https://github.com/mcharrod)
+- [Devin Pilé]
+- [Russell Rockwood] 
