@@ -35,11 +35,11 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 ### Merchants:
  * Manage your products 
  
- <img width="414" src="https://user-images.githubusercontent.com/63167887/149033746-6e109fd4-fac1-4459-8af2-64a97ec15960.png">
+ <img width="233" alt="Screen Shot 2022-01-11 at 5 48 56 PM" src="https://user-images.githubusercontent.com/63167887/149033760-39b4a973-3d74-41ee-b210-d6510d58de6f.png">
  
  * View your top customers and the number of transactions with each customer 
  
- <img width="233" alt="Screen Shot 2022-01-11 at 5 48 56 PM" src="https://user-images.githubusercontent.com/63167887/149033760-39b4a973-3d74-41ee-b210-d6510d58de6f.png">
+  <img width="414" src="https://user-images.githubusercontent.com/63167887/149033746-6e109fd4-fac1-4459-8af2-64a97ec15960.png">
 
 ### Admin
 
