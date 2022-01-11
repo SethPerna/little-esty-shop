@@ -2,7 +2,7 @@
 > Little Esty Shop is a fictitious e-commerce platform where merchants and admins can manage inventory and fulfill customer invoices.
 ## Table of Contents
 * [General Info](#general-information)
-* [Installation](#installation)
+* [Installation](#setup)
 * [Usage](#usage)
 * [Technologies Used](#technologies-used)
 * [Featured Applications](#featured-applications)
@@ -22,7 +22,13 @@ Code can be found on Git Hub where it can be cloned to your local machine for fu
 - From the command line, install gems and set up your DB:
     * `bundle`
     * `rails db:create`
-Or visit the [deployed version]() on Heroku
+- Or visit the [deployed version]() on Heroku
+
+## Technologies Used
+- Ruby/Rails
+- [Atom](https://visualstudio.microsoft.com/downloads/) Free and open-source text and source code editor.
+- [RSpec](https://rspec.info/) Ruby behavior driven development test suite.
+- [dbdiagram.io](https://dbdiagram.io/home) A free, simple tool to draw ER diagrams.
 
 ## Requirements
 - must use Rails 5.2.x
