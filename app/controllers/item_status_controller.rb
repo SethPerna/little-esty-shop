@@ -4,7 +4,7 @@ class ItemStatusController < ApplicationController
 
   def update
     @item.update(item_status_params)
-    redirect_to merchant_items_path
+    redirect_to(merchant_items_path)
   end
 
   private
