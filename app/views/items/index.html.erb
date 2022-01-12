@@ -27,7 +27,11 @@
   <ol>
     <% @merchant.top_five_items.each do |item| %>
       <li>Item: <%= link_to item.name, "/merchants/#{@merchant.id}/items/#{item.id}" %> - Total Sales: <%= item.total_sales %> -
-        Top Sales Date: <%= item.most_revenue %>
+        Top Sales Date: <% if item.most_revenue == nil %>
+                          <%= "No Sales Data" %>
+                        <% else %>
+                          <%= item.most_revenue.created_at.to_date %>
+                        <% end %>
       </li>
     <% end %>
   </ol>
