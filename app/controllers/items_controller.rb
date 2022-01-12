@@ -20,8 +20,7 @@ class ItemsController < ApplicationController
     @item = Item.find(params[:id])
   end
 
-  def new
-  end
+  def new; end
 
   def create
     item = Item.new(item_params)
