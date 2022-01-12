@@ -40,7 +40,7 @@ describe Item, type: :model do
       invoice_item_6 = create(:invoice_item, item_id: item_6.id, invoice_id: invoice_6.id, status: 2, quantity: 1, unit_price: 50)
       invoice_item_12 = create(:invoice_item, item_id: item_6.id, invoice_id: invoice_12.id, status: 2, quantity: 1, unit_price: 50)
 
-      expect(item_6.most_revenue).to eq(invoice_6.created_at.to_date)
+      expect(item_6.most_revenue.created_at.to_date).to eq(invoice_6.created_at.to_date)
     end
   end
 
