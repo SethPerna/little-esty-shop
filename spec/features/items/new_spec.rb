@@ -2,9 +2,9 @@ require 'rails_helper'
 
 describe 'new merchant item form' do
   before do
-    @merchant1 = Merchant.create!(name: 'Long Hair Dont Care')
+    @merchant_1 = Merchant.create!(name: 'Long Hair Dont Care')
 
-    visit new_merchant_item_path(@merchant1)
+    visit new_merchant_item_path(@merchant_1)
   end
 
   it 'has a form for a new item' do
@@ -13,7 +13,7 @@ describe 'new merchant item form' do
     fill_in 'Unit Price', with: 5
     click_button 'Submit'
 
-    expect(current_path).to eq(merchant_items_path(@merchant1))
+    expect(current_path).to eq(merchant_items_path(@merchant_1))
     expect(page).to have_content('Shampoo Bar')
   end
 end
